@@ -5,11 +5,17 @@ This API is used in conjuction with the Payerang APP to simulate retrieving data
 
 
 ## Instructions
+Clone the repository, install node packages, and start the server:
 ```
   On your local machine:
-  git clone ...
-  cd payerang-api
-  npm install
-  node server.js
+    git clone https://github.com/dellingc/Paymerang-API.git
+    cd payerang-api
+    npm install
+    node server.js
 ```
-
+Verify that the server is running:
+```
+Open your local browser and try accessing:
+    http://localhost:8000/
+    http://localhost:8000/0
+```
