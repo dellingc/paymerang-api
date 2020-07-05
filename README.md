@@ -5,11 +5,11 @@ This API is used in conjuction with the Payerang APP to simulate retrieving data
 
 
 ## Instructions
-
+'''
   On your local machine:
   git clone ...
   cd payerang-api
   npm install
   node server.js
-
+'''
 
