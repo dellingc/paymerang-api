@@ -15,4 +15,4 @@ app.get('/:index', (req, res) => res.send(indPayee(req.params.index)));
 
 
 
-app.listen(8000, () => console.log('App listening on port 8000!'))
+app.listen(8000, () => console.log('Server listening on port 8000!'))
