@@ -6,7 +6,7 @@ This API is used in conjuction with the [Paymerang App](https://github.com/delli
 Clone the repository, install node packages, and start the server
 On your local machine:
 ```
-  git clone https://github.com/dellingc/Paymerang-API.git
+  git clone https://github.com/dellingc/paymerang-api.git
   cd paymerang-api
   npm install
   node server.js
