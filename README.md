@@ -14,9 +14,9 @@ On your local machine:
 
 Verify that the server is running:
 
-> A message will be printed to the terminal that the server is listening on port 8000
-Open your local browser and try accessing:
-    http://localhost:8000/
+A message will be printed to the terminal that the server is listening on port 8000  return
+Open your local browser and try accessing:  return
+    http://localhost:8000/  return
     http://localhost:8000/0 (the 0 is the index of the payee in the JSON, change this number to get the other payee's data)
     
 Return to [Paymerang App](https://github.com/dellingc/paymerang-app) and follow README instructions to install and run the app.
