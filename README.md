@@ -7,7 +7,7 @@ Clone the repository, install node packages, and start the server
 On your local machine:
 ```
   git clone https://github.com/dellingc/Paymerang-API.git
-  cd payerang-api
+  cd paymerang-api
   npm install
   node server.js
 ```
