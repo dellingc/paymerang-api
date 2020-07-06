@@ -1,6 +1,6 @@
 # Paymerang API
 
-This API is used in conjuction with the [Payerang App](https://github.com/dellingc/paymerang-app) to simulate retrieving data from a server. The API only accepts GET requests to send all of the payee data or to send data for an indidual payee.
+This API is used in conjuction with the [Paymerang App](https://github.com/dellingc/paymerang-app) to simulate retrieving data from a server. The API only accepts GET requests to send all of the payee data or to send data for an indidual payee.
 
 ## Instructions
 Clone the repository, install node packages, and start the server
